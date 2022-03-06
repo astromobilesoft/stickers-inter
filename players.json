@@ -1,0 +1,24 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.inter",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"arturovidal1",
+         "name":"Arturo Vidal",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"lautaromartinez1",
+         "name":"Lautaro Martinez",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"team2022",
+         "name":"Team 2022",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      }
+   ]
+}

@@ -3,6 +3,30 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"seriea2122f28",
+         "name":"vs Salernitana",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"seriea2122f23",
+         "name":"vs Venezia",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"coppaitalia2122f4",
+         "name":"vs AS Roma",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"arturovidal1",
+         "name":"Arturo Vidal",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
          "identifier":"lautaromartinez1",
          "name":"Lautaro Martinez",
          "animated_sticker_pack":false,
@@ -19,6 +43,18 @@
          "name":"Club 1",
          "animated_sticker_pack":false,
          "stickers":"16"
+      },
+      {
+         "identifier":"team2022",
+         "name":"Team 2022",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"simoneinzaghi1",
+         "name":"Simone Inzaghi",
+         "animated_sticker_pack":false,
+         "stickers":"15"
       },
       {
          "identifier":"animated1",

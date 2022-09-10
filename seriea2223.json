@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"seriea2223f6",
+         "name":"vs Torino",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"seriea2223f4",
          "name":"vs Cremonese",
          "animated_sticker_pack":false,

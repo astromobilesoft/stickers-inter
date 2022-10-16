@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"seriea2223f10a",
+         "name":"vs Salernitana (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"seriea2223f10b",
+         "name":"vs Salernitana (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"seriea2223f9",
          "name":"vs Sassuolo",
          "animated_sticker_pack":false,

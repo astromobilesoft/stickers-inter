@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ufcl2223gp5a",
+         "name":"vs Plzen (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"ufcl2223gp5b",
+         "name":"vs Plzen (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"seriea2223f11a",
          "name":"vs Fiorentina (1)",
          "animated_sticker_pack":false,

@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"seriea2223f15a",
+         "name":"vs Atalanta (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"seriea2223f15b",
+         "name":"vs Atalanta (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"seriea2223f14a",
          "name":"vs Bologna (1)",
          "animated_sticker_pack":false,

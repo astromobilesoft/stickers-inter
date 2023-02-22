@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ufcl2223o1",
+         "name":"vs Porto",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
          "identifier":"ufcl2223gp5a",
          "name":"vs Plzen (1)",
          "animated_sticker_pack":false,

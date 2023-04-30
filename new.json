@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"seriea2223f32a",
+         "name":"vs Lazio (1)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"seriea2223f32b",
+         "name":"vs Lazio (2)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
          "identifier":"coppaitalia2223s2a",
          "name":"vs Juventus (1)",
          "animated_sticker_pack":false,

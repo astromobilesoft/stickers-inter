@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ufcl2223s2c",
+         "name":"vs Milan (5)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
          "identifier":"ufcl2223s2a",
          "name":"vs Milan (3)",
          "animated_sticker_pack":false,

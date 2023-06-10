@@ -3,14 +3,20 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2223prefinal",
+         "name":"Forza Inter",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
          "identifier":"kit2324a",
-         "name":"Maglia 23-24 (1)",
+         "name":"Kit 23-24 (1)",
          "animated_sticker_pack":false,
          "stickers":"28"
       },
       {
          "identifier":"kit2324b",
-         "name":"Maglia 23-24 (2)",
+         "name":"Kit 23-24 (2)",
          "animated_sticker_pack":false,
          "stickers":"28"
       },

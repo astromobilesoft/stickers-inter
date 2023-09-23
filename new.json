@@ -583,6 +583,18 @@
          "name":"Animated 2",
          "animated_sticker_pack":true,
          "stickers":"12"
+      },
+      {
+         "identifier":"team2021",
+         "name":"Team 2021",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"team2020",
+         "name":"Team 2020",
+         "animated_sticker_pack":false,
+         "stickers":"30"
       }
    ]
 }

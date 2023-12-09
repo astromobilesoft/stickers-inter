@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"seriea2324f15a",
+         "name":"vs Udinese (1)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"seriea2324f15b",
+         "name":"vs Udinese (2)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
          "identifier":"seriea2324f14a",
          "name":"vs Napoli (1)",
          "animated_sticker_pack":false,

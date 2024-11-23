@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"seriea2425f13a",
+         "name":"vs Verona (1)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"seriea2425f13b",
+         "name":"vs Verona (2)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
          "identifier":"seriea2425f11",
          "name":"vs Venezia",
          "animated_sticker_pack":false,

@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"seriea2425f28",
+         "name":"vs Monza",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
          "identifier":"seriea2425f26",
          "name":"vs Genoa",
          "animated_sticker_pack":false,

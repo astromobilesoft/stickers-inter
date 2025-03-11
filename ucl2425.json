@@ -3,8 +3,14 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2425o2",
+         "name":"vs Feyenoord (2)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
          "identifier":"ucl2425o1",
-         "name":"vs Feyenoord",
+         "name":"vs Feyenoord (1)",
          "animated_sticker_pack":false,
          "stickers":"25"
       },

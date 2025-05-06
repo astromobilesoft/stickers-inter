@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2425s2a",
+         "name":"vs Barcelona (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"ucl2425s2b",
+         "name":"vs Barcelona (3)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"seriea2425f35",
          "name":"vs Verona",
          "animated_sticker_pack":false,
@@ -10,7 +22,7 @@
       },
       {
          "identifier":"ucl2425s1",
-         "name":"vs Barcelona",
+         "name":"vs Barcelona (1)",
          "animated_sticker_pack":false,
          "stickers":"21"
       },

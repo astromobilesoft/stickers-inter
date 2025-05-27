@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kit2425e",
+         "name":"Kit 24-25 (5)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
          "identifier":"seriea2425f38",
          "name":"vs Como",
          "animated_sticker_pack":false,

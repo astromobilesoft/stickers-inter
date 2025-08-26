@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"seriea2526f1a",
+         "name":"vs Torino (1)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"seriea2526f1b",
+         "name":"vs Torino (2)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },    
+      {
          "identifier":"clubworldcup2025fg3",
          "name":"vs River Plate",
          "animated_sticker_pack":false,

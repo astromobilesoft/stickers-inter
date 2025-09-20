@@ -7,19 +7,7 @@
          "name":"Kit 25-26 (3)",
          "animated_sticker_pack":false,
          "stickers":"24"
-      },      
-      {
-         "identifier":"kit2526a",
-         "name":"Kit 25-26 (1)",
-         "animated_sticker_pack":false,
-         "stickers":"27"
-      },
-      {
-         "identifier":"kit2526b",
-         "name":"Kit 25-26 (2)",
-         "animated_sticker_pack":false,
-         "stickers":"25"
-      },      
+      },         
       {
          "identifier":"ucl2526f1",
          "name":"vs Ajax",
@@ -138,13 +126,13 @@
          "identifier":"kit2526a",
          "name":"Kit 25-26 (1)",
          "animated_sticker_pack":false,
-         "stickers":"26"
+         "stickers":"27"
       },
       {
          "identifier":"kit2526b",
          "name":"Kit 25-26 (2)",
          "animated_sticker_pack":false,
-         "stickers":"24"
+         "stickers":"25"
       },
       {
          "identifier":"kit2425e",

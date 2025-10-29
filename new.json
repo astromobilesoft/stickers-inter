@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"seriea2526f9a",
+         "name":"vs Fiorentina (1)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      }, 
+      {
+         "identifier":"seriea2526f9b",
+         "name":"vs Fiorentina (2)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },      
+      {
          "identifier":"ucl2526f3",
          "name":"vs Royale Union SG",
          "animated_sticker_pack":false,

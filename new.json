@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2526f4",
+         "name":"vs Kairat Almaty",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },        
+      {
          "identifier":"seriea2526f10",
          "name":"vs Verona",
          "animated_sticker_pack":false,

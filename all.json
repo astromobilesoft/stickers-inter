@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"seriea2526f14a",
+         "name":"vs Como (1)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },     
+      {
+         "identifier":"seriea2526f14b",
+         "name":"vs Como (2)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },         
+      {
          "identifier":"coppaitalia2526o1",
          "name":"vs Venezia",
          "animated_sticker_pack":false,

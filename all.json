@@ -3,11 +3,17 @@
    "ios_app_store_link":"",
    "sticker_packs":[
      {
+        "identifier":"seriea2526f18",
+        "name":"vs Bologna",
+        "animated_sticker_pack":false,
+        "stickers":"17"
+     },     
+     {
         "identifier":"seriea2526f17",
         "name":"vs Atalanta",
         "animated_sticker_pack":false,
         "stickers":"18"
-     },       
+     },
       {
          "identifier":"natale1",
          "name":"Buon Natale",

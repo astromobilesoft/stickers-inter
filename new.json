@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
      {
+         "identifier":"kit2526d",
+         "name":"Kit 25-26 (4)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+     },       
+     {
         "identifier":"seriea2526f22",
         "name":"vs Pisa",
         "animated_sticker_pack":false,

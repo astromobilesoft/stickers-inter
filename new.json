@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"seriea2526f31a",
+         "name":"vs Roma (1)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"seriea2526f31b",
+         "name":"vs Roma (2)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
          "identifier":"pascuas",
          "name":"Buona Pasqua",
          "animated_sticker_pack":false,

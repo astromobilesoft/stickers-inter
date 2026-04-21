@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"coppaitalia2526semifinal",
+         "name":"vs Como",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
          "identifier":"seriea2526f33",
          "name":"vs Cagliari",
          "animated_sticker_pack":false,

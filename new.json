@@ -3,8 +3,14 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"intercampeon",
-         "name":"CAMPIONI D'ITALIA",
+         "identifier":"seriea2526w2",
+         "name":"CAMPIONI D'ITALIA (2)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"seriea2526w1",
+         "name":"CAMPIONI D'ITALIA (1)",
          "animated_sticker_pack":false,
          "stickers":"18"
       },

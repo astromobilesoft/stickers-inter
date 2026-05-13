@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"coppaitalia2526w1",
+         "name":"Coppa Italia 25-26 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"coppaitalia2526w2",
+         "name":"Coppa Italia 25-26 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },      
+      {
          "identifier":"seriea2526f36",
          "name":"vs Lazio",
          "animated_sticker_pack":false,
